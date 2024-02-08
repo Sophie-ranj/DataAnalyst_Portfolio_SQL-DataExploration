@@ -1,8 +1,7 @@
 
 #  SQL Data Exploration
 
-In this project, I used Microsoft SQL Server Management Studio to analyze and explore COVID-19 data sourced from [![our world]([https://ourworldindata.org/covid-deaths](https://ourworldindata.org/covid-deaths))](https://katherineoelsner.com/)
-in Data and lasted from 1 January 2020 to 5 November 2022. The COVID-19 pandemic has had numerous short- and long-term effects on human health, society, economy, and the environment. A pandemic that broke out in 2019 created significant knock-on effects on citizens' daily lives and the global economy. Nowadays, the impacts of COVID-19 on daily life are extensive and have far-reaching consequences.
+In this project, I used Microsoft SQL Server Management Studio to analyze and explore COVID-19 data sourced from [our world in Data](https://ourworldindata.org/covid-deaths) lasted from 1 January 2020 to 5 November 2022. The COVID-19 pandemic has had numerous short- and long-term effects on human health, society, economy, and the environment. A pandemic that broke out in 2019 created significant knock-on effects on citizens' daily lives and the global economy. Nowadays, the impacts of COVID-19 on daily life are extensive and have far-reaching consequences.
 
 
 ## Principal discoveries:
